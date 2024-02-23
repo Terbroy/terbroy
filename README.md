@@ -1,17 +1,6 @@
 <h1 align="center">
 Hi, I'm Teresa Saaavedra!
-	<a href="https://github.com/Terbroy" target="_self">
-		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-	</a>
 </h1>
-<p align="center">
-	<a href="https://github.com/Terbroy">
-		<img src="https://komarev.com/ghpvc/?username=bouaskaoun&label=Profile%20views&color=0e75b6&style=flat" alt="terbroy" />
-	</a>
-	<a href="https://github.com/Terbroy">
-		<img src="https://img.shields.io/github/followers/bouaskaoun?label=Followers" alt="terbroy" />
-	</a>
-</p>
 <br/>
 <p align="center">
 	<a href="https://www.linkedin.com/in/teresa-broyer/">
@@ -34,9 +23,9 @@ Hi, I'm Teresa Saaavedra!
 
 ## 🤝 Connect with me
 <p align="center">
-	<a href="mailto:teresabroyer2003@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/teresa-broyer/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://github.com/Terbroy"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="mailto:teresabroyer2003@gmail.com"><img img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/teresa-broyer/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
+	<a href="https://github.com/Terbroy"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
 </p>
 
 ## 🛠️ My Favorite Tools
