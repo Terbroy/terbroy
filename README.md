@@ -22,14 +22,13 @@ Hi, I'm Teresa Saaavedra!
 <hr>
 
 <pre>
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University Cadi Ayyad at Morocco
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
+💻 I am a self taught Full Stack Developer
+📚 I have experience at student in difeferent bootcamps of tec
+📝 I have a strong interest in Back-end & Cloud
+🌱 Learning about Backend & Data Bases 
+🌟 Main languages: Java, JavaScript
+🚩 Interested in Full Stack or Back End
+🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://docs.google.com/document/d/1FzR84Yvd3Uvdje9aBcON20Hx_yHGFjRS/edit?usp=sharing&ouid=115502817976626646516&rtpof=true&sd=true" target="_blank">MY RESUME.</a>
 </pre>
 <hr>
 
@@ -45,8 +44,8 @@ Hi, I'm Teresa Saaavedra!
 ### 👨‍💻 Programming Languages
 
 <p>
-    <a href="https://github.com/Bouaskaoun"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+    <a href="https://github.com/Bouaskaoun"><img alt="JavaScript" src="https://skillicons.dev/icons?i=js"></a>
+    <a href="https://github.com/Bouaskaoun"><img alt="Java" src="https://skillicons.dev/icons?i=java"></a>
 
 ### 🧰 Frameworks and Libraries
 
