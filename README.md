@@ -53,9 +53,9 @@ Hi, I'm Teresa Saaavedra!
     <a href="https://github.com/Bouaskaoun"><img alt="HTML" src="https://skillicons.dev/icons?i=html"></a>
     <a href="https://github.com/Bouaskaoun"><img alt="Figma" src="https://skillicons.dev/icons?i=figma"></a>
     <a href="https://github.com/Bouaskaoun"><img alt="Tailwind" src="https://skillicons.dev/icons?i=tailwind"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Node" src="https://skillicons.dev/icons?i=node"></a>
+    <a href="https://github.com/Bouaskaoun"><img alt="Node" src="https://skillicons.dev/icons?i=nodejs"></a>
     <a href="https://github.com/Bouaskaoun"><img alt="React" src="https://skillicons.dev/icons?i=react"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Spring" src="https://skillicons.dev/icons?i=springboot"></a>
+    <a href="https://github.com/Bouaskaoun"><img alt="Spring" src="https://skillicons.dev/icons?i=spring"></a>
     <a href="https://github.com/Bouaskaoun"><img alt="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap"></a>
 </p>
 
