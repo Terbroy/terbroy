@@ -71,50 +71,14 @@ Hi, I'm Teresa Saaavedra!
 </p>
 </br>
 
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
-</td>
 
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-
-If you have any questions about front-end web development, feel free to <a href="mailto:bouaskaoun.mohammed@gmail.com">contact me through email</a> me.
-
-You can hire me as a freelancer on <a href="https://www.fiverr.com">Fiverr</a> or <a href="https://www.linkedin.com/in/bouaskaoun/">LinkedIn</a> to deploy your machine learning project on web.
-
-  </td>
-  <td width="50%" valign="top">
-
-## It's not perfect, isn't it?
-
-**<a href="https://github.com/Terbroy"><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>**
-
-“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
-– Elon Musk
-
-  </td>
-  </tr>
-</table>
+## GitHub Statistics
+[![Nishant1500's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nishant1500&show_icons=true&theme=radical)](https://github.com/Nishant1500?tab=overview)
+<br>
+<a href="https://github.com/Nishant1500?tab=overview">
+<img align="center" alt="Nish's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant1500&layout=compact&langs_count=9&theme=radical&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nishant1500&theme=radical" alt="More Nish Stats" /></p>
+</a>
 
 ------
 
