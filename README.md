@@ -73,15 +73,15 @@ Hi, I'm Teresa Saaavedra!
 
 
 ## GitHub Statistics
-[![Nishant1500's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nishant1500&show_icons=true&theme=radical)](https://github.com/Nishant1500?tab=overview)
+[![Terbroy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Terbroy&show_icons=true&theme=radical)](https://github.com/Terbroy?tab=overview)
 <br>
-<a href="https://github.com/Nishant1500?tab=overview">
-<img align="center" alt="Nish's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant1500&layout=compact&langs_count=9&theme=radical&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nishant1500&theme=radical" alt="More Nish Stats" /></p>
+<a href="https://github.com/Terbroy?tab=overview">
+<img align="center" alt="Nish's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Terbroy&layout=compact&langs_count=9&theme=radical&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Terbroy&theme=radical" alt="More Nish Stats" /></p>
 </a>
 
 ------
 
-[Bouaskaoun](https://github.com/Bouaskaoun)
+[Terbroy](https://github.com/Terbroy)
 
-Last Edited on: 19/07/2022
+Last Edited on: 23/02/2024
