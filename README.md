@@ -4,7 +4,7 @@ Hi, I'm Teresa Saaavedra!
 <br/>
 <p align="center">
 	<a href="https://www.linkedin.com/in/teresa-broyer/">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;Full+Stack+Web+Developer;Freelancer;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
 
@@ -12,7 +12,7 @@ Hi, I'm Teresa Saaavedra!
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://camo.githubusercontent.com/749c01e275a5a59ba7ae192e32a099a09f1545f182483478567f18ff2932a138/68747470733a2f2f632e74656e6f722e636f6d2f474e37334d4b4261775a5941414141692f627573792d637574652e676966" width = 250px></picture>
 
 <pre>
 💻 I am a self taught Full Stack Developer
